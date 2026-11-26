@@ -1,0 +1,4 @@
+,confirmed_cchd,cchd_lost_pre_echo,cchd_missed_false_neg,cchd_missed_unscreened
+"1. Rural Baseline (45% cov, 30% echo)",9.5,22.1,13.5,55.0
+"2. Expand Screening Only (80% cov, 30% echo)",16.8,39.2,24.0,20.0
+"3. Expand Screening + Echo Referral (80% cov, 75% echo)",42.0,14.0,24.0,20.0
